@@ -1,5 +1,7 @@
 # Yolo_Implementation
-This is an efficient implementation of the YOLO "You-only-look-once" model.
+This is an efficient implementation of the YOLO "You-only-look-once" model. 
+<p>The overall structure is inspired by <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf">this paper</a></p>
+
 ## Initialising data
 During training, the model feeds in the data using the DataLoader class given in the archive_data.py. 
 <p>Implement the __init__() method to pull the data from whichever datasource. The only conditions being:</p>
