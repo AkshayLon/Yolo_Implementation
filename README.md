@@ -20,3 +20,6 @@ These are all available to set depending on the use case.
 
 ## Model information
 The implementation of the model is given in the yolov1 class of the yolo_implementation.py file. The loss function is implemented in the CustomLoss class of the same file.
+
+## Training and running the model
+To install the dependencies of the process, run the following command:
